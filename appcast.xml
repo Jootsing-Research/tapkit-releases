@@ -18,7 +18,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <pubDate>DAY, DD MMM YYYY HH:MM:SS +0000</pubDate>
             <enclosure
-                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/vX.Y.Z/TapKit-X.Y.Z.dmg"
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/vX.Y.Z/TapKit.dmg"
                 sparkle:edSignature="ED_SIGNATURE_HERE"
                 length="FILE_SIZE_IN_BYTES"
                 type="application/octet-stream" />
@@ -38,7 +38,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <pubDate>Wed, 29 Jan 2025 00:21:00 +0000</pubDate>
             <enclosure
-                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.0/TapKit-1.0.0.dmg"
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.0/TapKit.dmg"
                 length="43928695"
                 type="application/octet-stream" />
             <description><![CDATA[
