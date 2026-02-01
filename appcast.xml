@@ -32,6 +32,29 @@
         -->
 
         <item>
+            <title>Version 1.0.5</title>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Sun, 02 Feb 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.5/TapKit-1.0.5.dmg"
+                sparkle:edSignature="ECOfbLPSmNwMz6DGmAgPlTFXOh7XwHNcqud3ZxSjLQMghpAd8FWosGMb4oEYxK54VWtcMiwhI/ULvgAb+TIbAg=="
+                length="51738801"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul>
+                    <li>New shortcut test step to verify Switch Control works</li>
+                    <li>Preview of Switch Control menu during setup</li>
+                    <li>Auto-close System Settings after Switch Control setup</li>
+                    <li>Skip buttons on setup screens for troubleshooting</li>
+                    <li>Improved UI debugging tools</li>
+                </ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.4</title>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
