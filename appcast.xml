@@ -32,6 +32,30 @@
         -->
 
         <item>
+            <title>Version 1.0.6</title>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 02 Feb 2026 02:00:13 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.6/TapKit-1.0.6.dmg"
+                sparkle:edSignature="4Wa92GYN+QR6iWcl3YZb/G+d9xnVdDmNGCOJe2ghZt51bbcvtRBzCKz+9rhWU4en7zWKzEyPCisCB3fX+ZnMAA=="
+                length="46542339"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul>
+                    <li>Improved automation permission flow with in-app prompt</li>
+                    <li>Auto Scanning is now disabled during Switch Control setup</li>
+                    <li>Fixed phone view not appearing after onboarding</li>
+                    <li>Fixed camera permission timing during first launch</li>
+                    <li>Updated Switch Control menu preview to match actual UI</li>
+                    <li>System Settings stays open after setup for verification</li>
+                </ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.5</title>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
