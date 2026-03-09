@@ -32,6 +32,29 @@
         -->
 
         <item>
+            <title>Version 1.0.11</title>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 09 Mar 2026 04:38:45 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.11/TapKit-1.0.11.dmg"
+                sparkle:edSignature="3qCTQFlNPJ7uys9lXzbZjdGz7kk8j3/pWe5YvD+H2hl0/sFuXkfJFqyK7rxLDsgvxZyhsA8QRR2iQ/W9kgFiCg=="
+                length="76847494"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul>
+                    <li>Add onboarding trial flow with Switch Control connection, agent demo, and subscription checkout</li>
+                    <li>Polish onboarding UX: soft QR codes, ring animations, gliding cursor step, copy updates</li>
+                    <li>Expand SwitchControlAutomationKit: generic settings, MCP server, permission checking</li>
+                    <li>Refactor onboarding: extract views, dedup components, store-driven architecture</li>
+                    <li>Add automated release pipeline</li>
+                </ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.10</title>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
