@@ -32,6 +32,30 @@
         -->
 
         <item>
+            <title>Version 1.0.14</title>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Tue, 10 Mar 2026 09:13:36 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.14/TapKit-1.0.14.dmg"
+                sparkle:edSignature="vKjqDhb1PQ0f3yJ+FxOyvBCG066P3qsOJBUpCxR/jMhbYmnycVUr+tz6zp5dPhN719EFYG5pXbbcHLoXF4PMCg=="
+                length="77185823"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul>
+                    <li>Add live E2B agent trial in onboarding, debug views, and customer-facing diagnostics tab</li>
+                    <li>Add USB device info to onboarding with SC connection guide and version-aware tab labels</li>
+                    <li>Polish onboarding: verify sheet, phone frame fixes, gliding cursor step</li>
+                    <li>Polish onboarding UX: soft QR codes, ring animations, copy updates, layout fixes</li>
+                    <li>Add onboarding trial flow with SC connection, agent demo, and subscription checkout</li>
+                    <li>Expand SwitchControlAutomationKit: generic settings, MCP server, permission checking</li>
+                </ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.13</title>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
