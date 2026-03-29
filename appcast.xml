@@ -32,6 +32,23 @@
         -->
 
         <item>
+            <title>Version 1.0.22</title>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Sun, 29 Mar 2026 05:21:52 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.22/TapKit-1.0.22.dmg"
+                sparkle:edSignature="V1SX9RYNeeVjcmcJ7Y1LmO1wuRfuKaX/CbUN+BfOPzNBZphDXb3EV3uTghPPpAHolgkLozdQ4VL2DslwlEzDBQ=="
+                length="78760781"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul><li>Introduced Scan as a first-class segment type with timing validation and stop-and-retry recovery</li><li>Single-key bursts for non-select steps — retry only resends the key that didn't land</li><li>Scan timing validation checks inter-select gaps with per-step recovery (5 next + select + stop)</li><li>Sleep steps now break select grouping so scans only contain the scanning phase</li><li>Consolidated CheckpointReducer, SwitchControlRecoveryReducer, and SegmentedExecutionReducer into one unified SegmentedOperationReducer</li><li>Reject concurrent operations while one is already in progress</li></ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.21</title>
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
