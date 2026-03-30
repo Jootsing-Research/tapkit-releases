@@ -32,6 +32,23 @@
         -->
 
         <item>
+            <title>Version 1.0.24</title>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 30 Mar 2026 06:18:57 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.24/TapKit-1.0.24.dmg"
+                sparkle:edSignature="3JPBuEYht1yznO4J5fuWesqggBjl04YYnBx/VOy/+mPQwX6XEB/7+s2vyajqNNqg+t4DHkgSjw1ZD8qosABiCw=="
+                length="78960077"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul><li>New two-button layout for Switch Control setup: Turn On and Open Menu</li><li>Switch Control now auto-connects to your iPhone</li><li>Streamlined onboarding — enable Switch Control with a single tap</li><li>Improved scan reliability with automatic recovery</li><li>Performance and stability improvements</li></ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.23</title>
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
