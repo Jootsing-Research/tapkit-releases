@@ -32,6 +32,35 @@
         -->
 
         <item>
+            <title>Version 1.0.28</title>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Wed, 15 Apr 2026 22:33:22 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.28/TapKit-1.0.28.dmg"
+                sparkle:edSignature="RjWzZ1rGAmgqAYsjFD9+F3pFp9O1LjcPRQj0uZpeRxBNx8dtmyqCiSwj8oOkRTdtChwMACqgSvVnU78+hHetCw=="
+                length="79629186"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul>
+    <li>Multi-phone support with improved Switch Control peer identity detection</li>
+    <li>Track lockdown_id alongside core_media_id for reliable phone identity</li>
+    <li>Prefer the Switch Control-connected phone during multi-phone auto-selection</li>
+    <li>Fix phone activation failing on first try when switching between devices</li>
+    <li>Add server-initiated phone switch (activate_phone) with automatic Switch Control enable</li>
+    <li>Navigate directly to target peer position in Devices menu</li>
+    <li>Debounced peer discovery and phone display name support</li>
+    <li>Scale up sub-1000 phone dimensions by 1.5x on first frame</li>
+    <li>Sessions-based chat experience with debug mode toggle</li>
+    <li>Subscription billing in Phones and Account tabs</li>
+    <li>Improved session refresh to prevent premature sign-out</li>
+</ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.27</title>
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
