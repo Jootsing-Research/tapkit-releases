@@ -32,6 +32,23 @@
         -->
 
         <item>
+            <title>Version 1.0.30</title>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Sun, 03 May 2026 22:40:36 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.30/TapKit-1.0.30.dmg"
+                sparkle:edSignature="eYPWRmME+TR/V7PnTfcDEJr8YfrOFMkbk5A07VNrHEemplggeIT2slocF+WBeKT+2HdU9gkFBixPAgaslmZ+DA=="
+                length="79397057"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul><li>Pinch gestures now support a custom duration</li><li>Faster Switch Control toggle, with automatic turn-off when you're done</li><li>Streamlined device controls panel</li><li>More reliable device scanning — retries cleanly and recovers when no device is found</li><li>Fixed timing on hold gestures</li><li>Onboarding bug fixes</li></ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.29</title>
             <sparkle:version>29</sparkle:version>
             <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
