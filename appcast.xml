@@ -32,6 +32,23 @@
         -->
 
         <item>
+            <title>Version 1.0.31</title>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Tue, 05 May 2026 23:07:26 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.31/TapKit-1.0.31.dmg"
+                sparkle:edSignature="+ZdZuS+PjBqzYD/mW720Asyj9U2gxnPXBN6yRtIRrNhE4oLxDLj8fGQCPAy47/vmhlfLmgkCthC/vNLtMfeKDQ=="
+                length="79495020"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul><li>Smarter scan timing — we now only check gesture-based scans, so your other scans glide through without nitpicking. ✨</li><li>New behind-the-scenes tools to help us troubleshoot Shortcut setup faster, so onboarding stays smooth for you.</li></ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.30</title>
             <sparkle:version>30</sparkle:version>
             <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
