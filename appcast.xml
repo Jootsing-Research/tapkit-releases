@@ -32,6 +32,23 @@
         -->
 
         <item>
+            <title>Version 1.0.42</title>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.0.42</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Sat, 06 Jun 2026 05:42:17 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.42/TapKit-1.0.42.dmg"
+                sparkle:edSignature="NcyVa+ifDAOdlZXC05aE5wzs/Y8Y4WdNKnws97Th1U5vXYz2MBkP2ZbvMNMMwncHgt+SD2pmg6ZHQorlizD4CA=="
+                length="99797844"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul><li>Improved AssistiveTouch onboarding flow and automation</li><li>Added flick gestures</li><li>Updated gesture menu controls and fixed gesture panel sizing</li><li>Added coordinate selection in the phone preview</li><li>Disabled pinch gesture controls</li><li>Aligned status indicator icons</li><li>Updated mouse movement engine (libhogp)</li></ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.41</title>
             <sparkle:version>41</sparkle:version>
             <sparkle:shortVersionString>1.0.41</sparkle:shortVersionString>
