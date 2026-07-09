@@ -32,6 +32,28 @@
         -->
 
         <item>
+            <title>Version 1.0.49</title>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>1.0.49</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Thu, 09 Jul 2026 23:49:55 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.49/TapKit-1.0.49.dmg"
+                sparkle:edSignature="x1Jg0YjRNDjDvpCDz+3l/SPnJglIZq+CbOxd4++JcTX/o1TY5x6GbZvFwOkYZ9YVKHG+cWPHMQlFuZ2zoy0iAA=="
+                length="98443234"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul>
+    <li>✨ We gave onboarding a fresh new look — connecting your iPhone is smoother and simpler than ever, from Bluetooth setup to picking your phone</li>
+    <li>👆 AssistiveTouch now feels more reliable and responsive</li>
+    <li>📱 Phone controls are more dependable, so your taps and gestures land the way you expect</li>
+    <li>🔊 Fixed the audio mute button — it now toggles just right</li>
+</ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.47</title>
             <sparkle:version>47</sparkle:version>
             <sparkle:shortVersionString>1.0.47</sparkle:shortVersionString>
