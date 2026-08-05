@@ -32,6 +32,23 @@
         -->
 
         <item>
+            <title>Version 1.0.59</title>
+            <sparkle:version>59</sparkle:version>
+            <sparkle:shortVersionString>1.0.59</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Wed, 05 Aug 2026 01:08:37 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.59/TapKit-1.0.59.dmg"
+                sparkle:edSignature="D1wTp2mAEXX6JGo0Rjslmc7NHmo5W+KM1L8whfV0rumvRAKIbME8KigSwirraXh7+mZj1nHdpPsthD1CYlV7Cg=="
+                length="106857812"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul><li>Improved multi-phone agent experience</li><li>More reliable Bluetooth input: fixed report coalescing and tuned AssistiveTouch input timing</li><li>HIDP is now the default input transport</li><li>Fixed window sizing issues</li></ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.56</title>
             <sparkle:version>56</sparkle:version>
             <sparkle:shortVersionString>1.0.56</sparkle:shortVersionString>
