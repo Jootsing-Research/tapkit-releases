@@ -32,6 +32,29 @@
         -->
 
         <item>
+            <title>Version 1.0.62</title>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>1.0.62</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Sat, 08 Aug 2026 01:58:05 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.62/TapKit-1.0.62.dmg"
+                sparkle:edSignature="uY1U0NcLiQTXm6TgfMQcSJ70xKRq6i+Y4wYvLciT5liPv6NsDX0p5f839Y5cq+pEb3dXtCBx7ec4dc2dxeu7CA=="
+                length="107100699"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul>
+    <li>Drag and Hold and Drag gestures now use a Slow / Medium / Fast speed setting instead of a duration slider</li>
+    <li>New per-phone actions menu with Reset AssistiveTouch and Force Disconnect</li>
+    <li>Agent model requests now run through the hosted proxy using your account session, so no separate API key is needed</li>
+    <li>Refreshed gesture control panel with consistent option pickers</li>
+    <li>Improved AssistiveTouch drag execution and timing</li>
+</ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.61</title>
             <sparkle:version>61</sparkle:version>
             <sparkle:shortVersionString>1.0.61</sparkle:shortVersionString>
