@@ -32,6 +32,29 @@
         -->
 
         <item>
+            <title>Version 1.0.70</title>
+            <sparkle:version>70</sparkle:version>
+            <sparkle:shortVersionString>1.0.70</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Tue, 18 Aug 2026 05:00:44 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.70/TapKit-1.0.70.dmg"
+                sparkle:edSignature="1JZ5GXyMuMOdQ3Y9uW86559IsGhIE+iX9x/iL7KxXs22n7PO6ymyDQMkluFEARRoo5FvD7wwIuf8vDkzzfHLBA=="
+                length="108268936"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul>
+    <li>Automatically connect to your iPhone from the Mac app over Bluetooth</li>
+    <li>Added macOS Bluetooth power controls and Bluetooth name settings</li>
+    <li>iPhone cursor now continuously syncs with the Mac cursor</li>
+    <li>Fixed a HID bug where shifted characters were typed incorrectly</li>
+    <li>Added onboarding analytics</li>
+</ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.63</title>
             <sparkle:version>63</sparkle:version>
             <sparkle:shortVersionString>1.0.63</sparkle:shortVersionString>
