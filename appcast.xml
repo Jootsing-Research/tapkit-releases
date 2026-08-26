@@ -32,6 +32,26 @@
         -->
 
         <item>
+            <title>Version 1.0.81</title>
+            <sparkle:version>81</sparkle:version>
+            <sparkle:shortVersionString>1.0.81</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Wed, 26 Aug 2026 00:48:27 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.81/TapKit-1.0.81.dmg"
+                sparkle:edSignature="NrmcR5/jaXwRlhlByNqMUBh4qHt4g3wZKFbYpK4iLw3mfGUaWjO8FhAW+MKjH+BWKxs1NlCg5DvuCnrk2gREAg=="
+                length="109119162"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul>
+    <li>Improved tap and drag reliability with updated pointer timing</li>
+    <li>Settings layout refinements and cleanup</li>
+</ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.80</title>
             <sparkle:version>80</sparkle:version>
             <sparkle:shortVersionString>1.0.80</sparkle:shortVersionString>
