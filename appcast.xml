@@ -32,6 +32,23 @@
         -->
 
         <item>
+            <title>Version 1.0.82</title>
+            <sparkle:version>82</sparkle:version>
+            <sparkle:shortVersionString>1.0.82</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Fri, 28 Aug 2026 04:37:17 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Jootsing-Research/tapkit-releases/releases/download/v1.0.82/TapKit-1.0.82.dmg"
+                sparkle:edSignature="S9cTtetfEDjnZfZ+7g1UWRLcwpWLtrF3G3Gngj7nBXAt93WkBdUaUiHwXnuePj9gfAm+hbH4Fd6heQ2gbc8pDQ=="
+                length="108720100"
+                type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul><li>New keypress and triple-tap commands, plus configurable drag speed</li><li>Hardened AssistiveTouch gestures and exposed the Phone Manager</li><li>Atomic type_text validation with support for strings up to 400 characters</li><li>AssistiveTouch job failures are now reported back to the server</li><li>Release build hygiene: dead-code stripping, suppressed debug output, hidden debug tab</li></ul>
+            ]]></description>
+        </item>
+
+        <item>
             <title>Version 1.0.81</title>
             <sparkle:version>81</sparkle:version>
             <sparkle:shortVersionString>1.0.81</sparkle:shortVersionString>
